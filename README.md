@@ -6,12 +6,12 @@
 
 2. Tasks
 
-Step 1. Choose three of the following classifiers to use them for the prediction of diabetes:
- - Decision Trees
- - Naïve Bayes
- - Neural Networks
- - K-Nearest neighbors
- - Support Vector machine
+       Step 1. Choose three of the following classifiers to use them for the prediction of diabetes:
+        - Decision Trees
+        - Naïve Bayes
+        - Neural Networks
+        - K-Nearest neighbors
+        - Support Vector machine
 
 The choice of three classifiers should be justified.
 
