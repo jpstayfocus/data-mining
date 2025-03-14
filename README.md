@@ -13,16 +13,16 @@
         - K-Nearest neighbors
         - Support Vector machine
 
-The choice of three classifiers should be justified.
-
-Step 2. Assess the chosen three classifier in Step 1). The principle is to compare between
-the three classifiers and to use the concept of model validation seen in the assignment 2.
-The overfitting problem should be taken into consideration during the experiments. A section of experimental results must be added and detailed. You can support your
-arguments with curves and scores.
-
-Step 3. Possibility to increase the scores. You have to check the possibility to increase the
-obtained scores in Step 2. Innovation in the experiment to improve the obtained scores will
-be an asset.
-
-Step 4. A conclusion has to be added at the end. It should mention what was achieved in
-this final project, drawbacks, and the possibility of the improvement of the obtained results.
+       The choice of three classifiers should be justified.
+       
+       Step 2. Assess the chosen three classifier in Step 1). The principle is to compare between
+       the three classifiers and to use the concept of model validation seen in the assignment 2.
+       The overfitting problem should be taken into consideration during the experiments. A section of experimental results must be added and detailed. You can support your
+       arguments with curves and scores.
+       
+       Step 3. Possibility to increase the scores. You have to check the possibility to increase the
+       obtained scores in Step 2. Innovation in the experiment to improve the obtained scores will
+       be an asset.
+       
+       Step 4. A conclusion has to be added at the end. It should mention what was achieved in
+       this final project, drawbacks, and the possibility of the improvement of the obtained results.
